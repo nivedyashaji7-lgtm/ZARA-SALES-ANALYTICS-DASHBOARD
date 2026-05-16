@@ -1,5 +1,8 @@
 # ZARA Sales Analytics Dashboard
 
+## Dashboard Preview
+![Dashboard Screenshot](Screenshot 2026-05-14 081604.png)
+
 This project presents an interactive Power BI dashboard created using a fashion retail dataset. The dashboard analyzes sales performance, customer behavior, pricing trends, product ratings, and seasonal patterns.
 
 ## Dashboard Features
